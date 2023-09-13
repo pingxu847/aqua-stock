@@ -9,11 +9,11 @@ pip install jqdatasdk
 
 ### How to create a dataabse from scratch
 ```python
-TBA
+python one_time_run.py
 ```
 
-### How to update the database
+### How to update the database on a daily basis
 ```python
-TBA
+python daily_run.py
 ```
 
